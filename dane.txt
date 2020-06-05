@@ -1,4 +1,8 @@
 Zgredek
 1
-3200
+2700.0
 wies
+Zenon
+3
+12200.0
+miasto
